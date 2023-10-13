@@ -1,0 +1,14 @@
+{
+  "name": "relearn-react",
+  "version": "1.0.0",
+  "description": "Relearning reactjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "author": "Israr Khan",
+  "license": "ISC"
+}
