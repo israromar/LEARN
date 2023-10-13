@@ -10,5 +10,8 @@
     "ReactJS"
   ],
   "author": "Israr Khan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
 }
